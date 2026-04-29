@@ -35,6 +35,4 @@ If you are in distress, please contact a mental health
 professional or crisis helpline in your country.
 
 ## Author
-**Lin Fang Yu** | MPH Candidate, NUS | Graduating July 2026  
-Nurse → Public Health Researcher → Digital Health Analyst  
-[GitHub](https://github.com/lfangyu443-ui)
+**Lin Fang Yu** | MPH Candidate, NUS 
